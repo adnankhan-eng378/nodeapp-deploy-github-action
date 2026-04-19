@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-github-actions-app",
+  "version": "1.0.0",
+  "description": "Node.js app for GitHub Actions deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Adnan Khan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
