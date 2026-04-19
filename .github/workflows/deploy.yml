@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE: yourdockerhubusername/nodejs-app
+  DOCKER_IMAGE: adnankhan48/nodejs-app
   DOCKER_TAG: latest
 
 jobs:
