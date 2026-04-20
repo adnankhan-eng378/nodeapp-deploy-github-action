@@ -25,4 +25,3 @@ steps:
 
   - name: Push Image
     run: docker push adnankhan48/nodejs-app:latest
-```
