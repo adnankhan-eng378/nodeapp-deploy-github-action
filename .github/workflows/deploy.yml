@@ -36,7 +36,7 @@ steps:
 
   - name: Push Docker Image
     run: docker push adnankhan48/nodejs-app:latest
-```
+
 
 steps:
   - name: Checkout Code
